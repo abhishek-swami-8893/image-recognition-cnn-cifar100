@@ -9,6 +9,19 @@ This project demonstrates a comparative study between a fully connected **Neural
 - Evaluation: Accuracy/loss curves, test accuracy, confusion matrix
 - Report: [Click here](docs/CIFAR100_Project_Report.pdf)
 
+
+## 📊 Model Performance Visuals
+
+### 📈 CNN – Accuracy & Loss Curves
+![CNN Accuracy and Loss](visuals/CNN_Accuracy_Loss.PNG)  
+
+---
+
+### 📉 NN – Accuracy & Loss Curves
+![NN Accuracy and Loss](visuals/NN_Accuracy_Loss.PNG)  
+
+
+
 ## 📂 Repository Structure
 /notebooks/
 → Jupyter notebook with full code
