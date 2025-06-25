@@ -10,6 +10,7 @@ This project demonstrates a comparative study between a fully connected **Neural
 - Report: [Click here](docs/CIFAR100_Project_Report.pdf)
 
 
+
 ## 📊 Model Performance Visuals
 
 ### 📈 CNN – Accuracy & Loss Curves
