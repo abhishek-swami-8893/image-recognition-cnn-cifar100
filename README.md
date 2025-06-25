@@ -16,6 +16,7 @@ This project demonstrates a comparative study between a fully connected **Neural
 requirements.txt → Python dependencies
 
 
+
 ## 🚀 How to Run
 1. Clone this repo
 2. Install dependencies: `pip install -r requirements.txt`
