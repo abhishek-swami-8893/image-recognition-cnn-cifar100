@@ -10,10 +10,17 @@ This project demonstrates a comparative study between a fully connected **Neural
 - Report: [Click here](docs/CIFAR100_Project_Report.pdf)
 
 ## 📂 Repository Structure
-/notebooks/ → Jupyter notebook with full code
-/visuals/ → Training curves, confusion matrix images
-/docs/ → Project report PDF
-requirements.txt → Python dependencies
+/notebooks/
+→ Jupyter notebook with full code
+
+/visuals/
+→ Training curves, confusion matrix images
+
+/docs/
+→ Project report PDF
+
+requirements.txt
+→ Python dependencies
 
 
 
